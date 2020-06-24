@@ -1,0 +1,144 @@
+* {
+	box-sizing: border-box;
+	font-family: helvetica;
+}
+
+body {
+	background-color: #03071e;
+}
+
+h1 {
+	font-weight: bold;
+	text-align: center;
+	font-family: helvetica;
+	color: white;
+}
+
+p {
+	padding: 10px;
+	margin: 0;
+}
+
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 10px;
+}
+
+section {
+	border:	5px solid #fca311;
+	background-color: black;
+	width: 100%;
+	height: auto;
+	font-family: Helvetica;
+	color: whitesmoke;
+	position: relative;
+	overflow: auto;
+	border-radius: 22px;
+}
+
+#alpha {
+	border-bottom: 2px solid red;
+	border-left: 2px solid red;
+	text-align: center;
+	width: 40%;
+	margin-left: 60%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 140%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: #14213d;
+	
+}
+
+#beta {
+	border-bottom: 2px solid red;
+	border-left: 2px solid red;
+	text-align: center;
+	width: 40%;
+	margin-left: 60%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 140%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: #14213d;
+}
+
+#gamma {
+	border-bottom: 2px solid red;
+	border-left: 2px solid red;
+	text-align: center;
+	width: 40%;
+	margin-left: 60%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 140%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	background-color: #14213d;
+}
+
+#alpha-div {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#beta-div {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#gamma-div {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.navbar-brand {
+  font-size: 2em;
+  border: 0 0 10px 10px;
+  color: #FFFFFF;
+}
+
+#header-nav {
+  border: 0;
+  background-color: orange;
+  color: #FFFFFF;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid #000000;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.nav-header {
+  background-color: #FFFFFF;
+}
+
+.nav-brand {
+  color: #FFFFFF;
+  font-size: 1.5em;
+}
+
+#nav-list {
+  color: white;
+}
+
+hr {
+  border-color: black;
+}
+
+.item {
+  color: black;
+  font-size: 2em;
+}
